@@ -7,3 +7,6 @@ Application web React pour l'analyse forensique de textes et la détection d'ind
 npm install
 npm run dev
 ```
+
+## Limites
+Les métriques sont indicatives et ne prouvent pas l'origine d'un texte.
